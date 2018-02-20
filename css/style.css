@@ -1,0 +1,27 @@
+body{
+    background:  url("../rikard.jpg") no-repeat fixed center; 
+    padding:0;
+    margin:0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    margin: auto;
+    width:100%;
+    background-position: center;
+    color:red;
+
+}
+h1{
+    text-align:center;
+}
+.quizbox{
+    justify-content: center;
+    display:flex;
+}
+#content{
+   
+    text-align: center;
+    
+}
