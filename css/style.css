@@ -1,5 +1,5 @@
 body{
-    background:  url("../rikard.jpg") no-repeat fixed center; 
+   /* background:  url("../rikard.jpg") no-repeat fixed center; */
     padding:0;
     margin:0;
     -webkit-background-size: cover;
@@ -15,10 +15,15 @@ body{
 }
 h1{
     text-align:center;
+
 }
 .quizbox{
     justify-content: center;
     display:flex;
+    color:blue;
+    background-color:rgba(255, 255, 255, 0.377);
+    width:30%;
+    margin: auto;
 }
 #content{
    
